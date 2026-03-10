@@ -64,7 +64,7 @@ Twitter 账号：
 - Binance 系：`@binance` `@binancezh` `@BinanceWallet` `@TrustWallet` `@heyibinance` `@cz_binance`
 - OKX 系：`@okx` `@okxchinese`
 - Gate 系：`@Gate` `@gate_io` `@Gate_zh`
-- 其他：`@coinbase` `@BackpackExchange` `@Bybit_Official` `@MEXC_Official` `@Bitget_zh` `@BingXOfficial`
+- 其他：`@coinbase` `@BackpackExchange` `@Bybit_Official` `@MEXC_Official` `@Bitget_zh` `@BingXOfficial` `@tradexyz`
 
 ### 预测市场
 Twitter 账号：`@Polymarket` `@MyriadMarkets` `@Kalshi` `@predictdotfun` `@opinionlabsxyz`
@@ -76,7 +76,7 @@ Twitter 账号：`@ai16zdao` `@elizaOS` `@Phala_Network` `@SaharaLabsAI`
 **分类特别说明**：AI × Crypto 不是按发布者归属，而是按内容主题分类。任何公司（交易所、钱包、DeFi 协议等）发布的与 AI 技术相关的动态都归入此类。判断标准：内容涉及 MCP Server、CLI 工具、AI Agent、AI Skills、AI 接口开放、AI 驱动的产品功能。
 
 ### DeFi 协议
-Twitter 账号：`@AaveAave` `@LidoFinance` `@MorphoLabs` `@CurveFinance` `@0xfluid` `@VenusProtocol` `@ResolvLabs` `@pendle_fi` `@ethena_labs` `@solana` `@kamino` `@Pumpfun`
+Twitter 账号：`@AaveAave` `@LidoFinance` `@MorphoLabs` `@CurveFinance` `@0xfluid` `@VenusProtocol` `@ResolvLabs` `@pendle_fi` `@ethena_labs` `@solana` `@kamino` `@Pumpfun` `@Dreamcash`
 
 ---
 

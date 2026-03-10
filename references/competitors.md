@@ -37,6 +37,7 @@
 | MEXC（抹茶）| @MEXC_Official | 新币上线速度快 |
 | Bitget | @Bitget_zh | 跟单交易 |
 | BingX | @BingXOfficial | 社交交易 |
+| TradeXYZ | @tradexyz | 交易平台 |
 
 ---
 
@@ -83,6 +84,7 @@
 | Solana | @solana | L1 生态 |
 | Kamino | @kamino | Solana 借贷/流动性 |
 | Pump.fun | @Pumpfun | Solana Memecoin 平台 |
+| Dreamcash | @Dreamcash | DeFi 项目 |
 
 ---
 
