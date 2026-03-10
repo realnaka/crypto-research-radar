@@ -142,5 +142,5 @@ Twitter 账号：`@AaveAave` `@LidoFinance` `@MorphoLabs` `@CurveFinance` `@0xfl
 
 本 Skill 配套 GitHub Actions 自动化方案：[crypto-daily-report](https://github.com/realnaka/crypto-daily-report)
 - 每天早上 9:00（UTC+8）自动运行
-- 报告分段发送到 Telegram 频道
+- 支持同时推送到 Telegram 频道和 Lark（飞书）群
 - 修改 `config/search_queries.yaml` 可调整监控列表
