@@ -57,7 +57,7 @@ curl -s "https://clawfeed.kevinhe.io/api/digests?type=daily&limit=1"
 ## 监控列表
 
 ### Perp DEX
-Twitter 账号：`@HyperliquidX` `@GMX_IO` `@dYdX` `@DriftProtocol` `@vertex_protocol` `@OstiumLabs` `@lighter_xyz` `@JupiterExchange` `@paradex_app` `@grvt_io` `@variational_io` `@StandX_Official` `@BasedOneX`
+Twitter 账号：`@HyperliquidX` `@GMX_IO` `@dYdX` `@DriftProtocol` `@vertex_protocol` `@OstiumLabs` `@lighter_xyz` `@JupiterExchange` `@paradex_app` `@grvt_io` `@variational_io` `@StandX_Official` `@BasedOneX` `@extendedapp` `@pacifica_fi` `@tryliquid` `@o1_exchange` `@nadoHQ`
 
 ### 交易所
 Twitter 账号：
